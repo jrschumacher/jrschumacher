@@ -1,4 +1,3 @@
-jrschumacher
-============
+@jrschumacher
 
-jrschumacher
+![Metrics](/github-metrics.svg)
